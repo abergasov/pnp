@@ -34,6 +34,7 @@ var bmxConfPNP = {
     },
     popaps: [
         {
+            "tmpl": '1',//номер шаблона макета
             "opacity":"0.7",//прозрачность попапа
             "background_color":"#000000",
             "text_color":"#5c3131",//цвет онсновного текста
@@ -45,6 +46,7 @@ var bmxConfPNP = {
             "img":"https:/\/cdn.shopify.com\/s\/files\/1\/0002\/3900\/9803\/t\/1\/assets\/snow.jpg"//картинка
         },
         {
+            "tmpl": '1',
             "opacity":"1",
             "background_color":"#000000",
             "text_color":"#5c3131",
